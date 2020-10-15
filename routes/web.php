@@ -11,6 +11,7 @@
 |
 */
 
+// config new rutes for project
 Route::get('/', function () {
     return view('welcome');
 });
